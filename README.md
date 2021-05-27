@@ -30,4 +30,12 @@
 
 ## FONTS
 ### Free fonts
-* Trello (free, interesante): [Website](https://trello.com/)
+* WhatTheFont (free, interesante): [Website](https://www.myfonts.com/WhatTheFont/)
+* Google Fonts (free, interesante): [Website](https://fonts.google.com/)
+* Font Squirrel (free, interesante): [Website](https://www.fontsquirrel.com/)
+* FontStruct (free, interesante): [Website](https://fontstruct.com/)
+* DaFont (free, interesante): [Website](https://www.dafont.com/es/)
+* Fontspace (free, interesante): [Website](https://www.fontspace.com/)
+* abstract fonts (free, interesante): [Website](https://www.abstractfonts.com/)
+* 1001 fonts (free, interesante): [Website](https://www.1001fonts.com/)
+
