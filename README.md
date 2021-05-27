@@ -9,7 +9,7 @@
 ## VECTORS
 ### Vectors-Icons and Tools
 * Flaticon (free, interesante): [Website](https://www.flaticon.com/)
-* FontAwesome (free, interesante): [Website](https://fontawesome.com/)
+* FontAwesome (free, interesante): [Website](https://fontawesome.com/v5/cheatsheet)
 * unDraw (free, interesante): [Website](https://undraw.co/)
 * CSS Icons (free, interesante): [Website](https://css.gg/)
 * Simple Icons (free, interesante): [Website](https://simpleicons.org/)
