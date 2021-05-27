@@ -23,10 +23,10 @@
 
 ## IMAGES & Video
 ### Free images and video resources
-* Unsplash (free, interesante): [Website](https://trello.com/)
-* Pexels (free, interesante): [Website](https://trello.com/)
-* Pixabay (free, interesante): [Website](https://trello.com/)
-* Freepik (free, interesante): [Website](https://trello.com/)
+* Unsplash (free, interesante): [Website](https://unsplash.com/)
+* Pexels (free, interesante): [Website](https://www.pexels.com/)
+* Pixabay (free, interesante): [Website](https://pixabay.com/)
+* Freepik (free, interesante): [Website](https://www.freepik.com/)
 
 ## FONTS
 ### Free fonts
