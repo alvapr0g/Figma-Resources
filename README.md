@@ -21,12 +21,13 @@
 * 365cons (free, interesante): [Website](http://www.365cons.com/)
 * SVG Wave Generator (free, interesante): [Website](https://smooth.ie/)
 
-## IMAGES & Video
+## IMAGES & Video & Gifs
 ### Free images and video resources
 * Unsplash (free, interesante): [Website](https://unsplash.com/)
 * Pexels (free, interesante): [Website](https://www.pexels.com/)
 * Pixabay (free, interesante): [Website](https://pixabay.com/)
 * Freepik (free, interesante): [Website](https://www.freepik.com/)
+* Giphy (free, interesante): [Website](https://giphy.com/explore/free-download)
 
 ## FONTS
 ### Free fonts
