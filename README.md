@@ -20,6 +20,7 @@
 * Lukasz Adam Free Illustrations (free, interesante): [Website](https://lukaszadam.com/illustrations)
 * 365cons (free, interesante): [Website](http://www.365cons.com/)
 * SVG Wave Generator (free, interesante): [Website](https://smooth.ie/)
+* The Noun Project (free, interesante): [Website](https://thenounproject.com/)
 
 ## IMAGES & Video & Gifs
 ### Free images and video resources
