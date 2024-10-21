@@ -4,6 +4,7 @@
 * [Vectors](#Vectors)
 * [Images](#Images)
 * [Fonts](#Images)
+* [Colors](#Colors)
 
 
 ## VECTORS
@@ -40,4 +41,9 @@
 * Fontspace (free, interesante): [Website](https://www.fontspace.com/)
 * abstract fonts (free, interesante): [Website](https://www.abstractfonts.com/)
 * 1001 fonts (free, interesante): [Website](https://www.1001fonts.com/)
+
+## Colors
+### Colors resources
+* Create a custom palette (free, interesante): [Website]([https://www.myfonts.com/WhatTheFont/](https://www.radix-ui.com/colors/custom))
+* Cool contrast (free, interesante): [Website]([https://fonts.google.com/](https://coolcontrast.vercel.app/))
 
