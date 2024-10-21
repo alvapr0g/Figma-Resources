@@ -44,6 +44,6 @@
 
 ## Colors
 ### Colors resources
-* Create a custom palette (free, interesante): [Website](https://www.myfonts.com/WhatTheFont/](https://www.radix-ui.com/colors/custom)
-* Cool contrast (free, interesante): [Website](https://fonts.google.com/](https://coolcontrast.vercel.app/)
+* Create a custom palette (free, interesante): [Website](https://www.radix-ui.com/colors/custom)
+* Cool contrast (free, interesante): [Website](https://coolcontrast.vercel.app/)
 
